@@ -110,8 +110,7 @@ I also ran the whole flow in a headless browser with a fake model, checking the 
 
 ## Credits
 
-Open-weight models: [Moondream](https://moondream.ai) and [Llama 3.2](https://www.llama.com/), served by [Ollama](https://ollama.com). The demo video voice is AI-generated (ElevenLabs).
-
+Open-weight models: [Moondream](https://moondream.ai) and [Llama 3.2](https://www.llama.com/), served by [Ollama](https://ollama.com). 
 ## License
 
 MIT. Add a `LICENSE` file to the repo to match.
