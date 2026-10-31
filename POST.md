@@ -13,7 +13,7 @@ Ghostroll opens the trunk of photos you forgot you kept. You pick some old pictu
 For the theme, the "ghosts" are the memories sleeping on your hard drive: thousands of photos nobody looks at anymore. The tool brings them back, gently.
 
 ## Demo
-
+ https://youtu.be/RfDWvNV5_Ds
 <!-- Upload ghostroll-demo-nomusic.mp4 to YouTube (or drag it into the dev.to editor) and paste the link below, e.g. {% embed https://www.youtube.com/watch?v=XXXX %} -->
 
 The video was recorded with my Wi-Fi switched off, so you can see it working offline.
@@ -42,4 +42,4 @@ It is also not locked in. The vision model and the text model are two dropdowns,
 
 The trade-off is honest: a small local model on a laptop is slower and less accurate than a cloud service. For photos like these, I'll take that trade for privacy.
 
-*Disclosure: the voice in the demo video is AI-generated (ElevenLabs).*
+
