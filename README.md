@@ -1,4 +1,4 @@
-# Ghostroll
+                                                #Ghostroll
 
 Open the trunk of photos you forgot you kept. Pick some old pictures and a local open-weight
 vision model describes each one, then a local text model writes a short, nostalgic chapter for every
