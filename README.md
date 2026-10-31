@@ -57,7 +57,7 @@ python server.py          # Windows: py server.py
 
 > Note: `http://127.0.0.1:11434` is Ollama itself ("Ollama is running"). Ghostroll lives on port **8000**.
 
-Pick up to 30 JPG/PNG photos, choose the models and the language, and press **Open the attic**. (The interface still shows its working title, "Digital Attic".)
+Pick up to 30 JPG/PNG photos, choose the models and the language, and press **Open the attic**. 
 
 ## Configuration
 
