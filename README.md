@@ -1,4 +1,4 @@
-# 👻 Ghostroll
+   # 👻 Ghostroll
 
 **Wake up the photos sleeping on your hard drive.** Pick old pictures, and two open-weight models running on your own laptop describe each one and write a short, warm chapter for every period of your life, as a polaroid album on a timeline. No cloud, no account, no API key. Works with the Wi-Fi off.
 
