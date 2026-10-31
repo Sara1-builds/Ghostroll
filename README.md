@@ -6,7 +6,7 @@
 > The "ghosts" are the memories nobody looks at anymore.
 
 <!-- Add your demo video link here -->
-**Demo video:** [_add link_](https://youtu.be/RfDWvNV5_Ds?si=EMvXqdBh9Mv7Obd5)
+**Demo video:** [_Demo video_](https://youtu.be/RfDWvNV5_Ds?si=EMvXqdBh9Mv7Obd5)
 
 ---
 
