@@ -32,10 +32,10 @@
 
 Your photos are some of the most private data you have: family, home, places. Cloud "memories" features need you to upload them. Here:
 
-- 🔒 The server binds to `127.0.0.1`, and its only outbound call is to **your own Ollama**.
-- 🚫 No account, no API key, no per-image cost, no telemetry, no CDN, no web fonts.
-- ✈️ Works fully offline once the models are pulled.
-- 📦 The exported album is plain HTML with the photos embedded. No service to shut down.
+-  The server binds to `127.0.0.1`, and its only outbound call is to **your own Ollama**.
+-  No account, no API key, no per-image cost, no telemetry, no CDN, no web fonts.
+-  Works fully offline once the models are pulled.
+-  The exported album is plain HTML with the photos embedded. No service to shut down.
 
 **The honest trade-off:** a small local model on a laptop is slower and less accurate than a cloud service. In my test run on a regular laptop, 4 photos plus one chapter took about a minute (roughly 9 s per photo, about 24 s for the chapter). Descriptions can be wrong (Moondream once called a sandy beach "urns of water"), so every sentence is editable before you save.
 
